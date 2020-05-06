@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multi Language App</string>
+    <string name="action_settings">அமைப்புகள்</string>
+    <string name="welcome">வரவேற்பு!</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="login">இப்போது உள்நுழையவும்</string>
+    <string name="dontHaveAccount">கணக்கு இல்லையா?</string>
+    <string name="signUp">பதிவுபெறுக</string>
+    <string name="forgotPassword">கடவுச்சொல்லை \n மறந்துவிட்டீர்களா?</string>
+</resources>

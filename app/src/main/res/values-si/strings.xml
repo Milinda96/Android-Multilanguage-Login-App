@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multi Language App</string>
+    <string name="action_settings">සැකසුම්</string>
+    <string name="welcome">අායු‌බෝවන්!</string>
+    <string name="email">විද්යුන් ලිපිනය</string>
+    <string name="password">මුරපදය</string>
+    <string name="login">පුරනය වන්න</string>
+    <string name="dontHaveAccount">ගිණුමක් නැද්ද?</string>
+    <string name="signUp">ලියාපදිංචි වන්න</string>
+    <string name="forgotPassword">මුරපදය අමතක වුණා ද?</string>
+</resources>
